@@ -1,0 +1,19 @@
+{
+  "note": "Simulated hourly HVAC/load readings for the sample week (Mon-Sun). Occupied flags come from the bell schedule and booking calendar.",
+  "readings": [
+    { "zoneId": "z-gym", "day": "Mon", "window": "18:00-23:00", "avgKw": 14.2, "occupied": false },
+    { "zoneId": "z-gym", "day": "Tue", "window": "18:00-23:00", "avgKw": 13.8, "occupied": false },
+    { "zoneId": "z-gym", "day": "Wed", "window": "18:00-21:00", "avgKw": 14.0, "occupied": true },
+    { "zoneId": "z-gym", "day": "Sat", "window": "08:00-18:00", "avgKw": 12.6, "occupied": false },
+    { "zoneId": "z-class-a", "day": "Mon", "window": "16:00-22:00", "avgKw": 9.4, "occupied": false },
+    { "zoneId": "z-class-a", "day": "Thu", "window": "16:00-22:00", "avgKw": 9.1, "occupied": false },
+    { "zoneId": "z-class-a", "day": "Sun", "window": "09:00-17:00", "avgKw": 8.8, "occupied": false },
+    { "zoneId": "z-admin", "day": "Fri", "window": "18:00-23:00", "avgKw": 3.2, "occupied": false },
+    { "zoneId": "z-admin", "day": "Sat", "window": "10:00-15:00", "avgKw": 3.4, "occupied": true },
+    { "zoneId": "z-lib", "day": "Tue", "window": "20:00-23:00", "avgKw": 5.9, "occupied": false },
+    { "zoneId": "z-lib", "day": "Sun", "window": "10:00-16:00", "avgKw": 6.2, "occupied": false },
+    { "zoneId": "z-caf", "day": "Mon", "window": "15:00-21:00", "avgKw": 11.5, "occupied": false },
+    { "zoneId": "z-caf", "day": "Wed", "window": "15:00-21:00", "avgKw": 11.9, "occupied": false },
+    { "zoneId": "z-caf", "day": "Sat", "window": "08:00-20:00", "avgKw": 10.8, "occupied": false }
+  ]
+}

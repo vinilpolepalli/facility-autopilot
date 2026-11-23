@@ -1,0 +1,10 @@
+{
+  "note": "Fictional sample building: one week of simulated telemetry for an imaginary K-12 school. Not real facility data.",
+  "zones": [
+    { "id": "z-gym", "name": "Gymnasium", "floor": 1, "idleKw": 2.1 },
+    { "id": "z-class-a", "name": "Classroom Wing A", "floor": 1, "idleKw": 1.4 },
+    { "id": "z-admin", "name": "Admin Offices", "floor": 2, "idleKw": 0.9 },
+    { "id": "z-lib", "name": "Library", "floor": 2, "idleKw": 1.1 },
+    { "id": "z-caf", "name": "Cafeteria", "floor": 1, "idleKw": 2.6 }
+  ]
+}
